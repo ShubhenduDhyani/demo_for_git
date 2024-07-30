@@ -1,3 +1,5 @@
 this is a new feature 3
 
 new func added in feature 3
+
+new addittion to this feature lets commit
